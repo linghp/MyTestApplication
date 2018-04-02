@@ -1,0 +1,75 @@
+{
+	"configs" : [
+		{
+			"remarks" : "",
+			"id" : "C0E513C2247CFB68123184672826C87C",
+			"server" : "server host",
+			"server_port" : 8388,
+			"server_udp_port" : 0,
+			"password" : "0",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "FreeSSR-public",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "A-美国-CN2-1000KB/S-100Mb/总-如失效请访问 https://zher.site/fq",
+			"id" : "738D5CBBB43B9E5AC63BBDC7DF6DA509",
+			"server" : "96.44.141.187",
+			"server_port" : 18325,
+			"server_udp_port" : 0,
+			"password" : "https://zher.site/ssr",
+			"method" : "chacha20",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "QS3nvo7lm70tQ04yLTEwMDBLQi9TLTEwME1iL-aAuy3lpoLlpLHmlYjor7forr_pl64gaHR0cHM6Ly96aGVyLnNpdGUvZnE",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "QAJWxNrNViit86VUgPME",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
